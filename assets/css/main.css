@@ -1,12 +1,19 @@
+/* general format */
 body {
 	background-color: #FF855B;
 	text-align: center;
 	color: #fff;
 }
+img {
+	width: 100%;
+	height: 100%;
+}
 .wrap {
 	text-align: right;
 	padding: 12px;
 }
+
+/* header format */
 .title {
 	padding-top: 50px;
 	padding-right: 30px;
@@ -15,10 +22,8 @@ body {
 	padding-bottom: 50px;
 	padding-right: 30px;
 }
-img {
-	width: 100%;
-	height: 100%;
-}
+
+/* about format */
 .about {
 	background-color: #9AE484;
 	border-top: 15px solid #FF855B;
@@ -34,7 +39,8 @@ img {
 .descriptionPandas {
 	margin: 15px;
 }
-/* describie */
+
+/* pictures format */
 .pictures {
 	background-color: #9AE484;
 	border-top: 15px solid #FF855B;
@@ -52,4 +58,3 @@ img {
 	margin-right: 85px;
 	border: 10px solid #fff;
 }
-
