@@ -7,15 +7,26 @@ body {
 	text-align: right;
 	padding: 12px;
 }
+.title {
+	padding-top: 50px;
+	padding-right: 30px;
+}
+.leyend {
+	padding-bottom: 50px;
+	padding-right: 30px;
+}
 img {
 	width: 100%;
+	height: 100%;
 }
 .about {
+	background-color: #9AE484;
 	border-top: 15px solid #FF855B;
 	border-bottom: 15px solid #FF855B;
 }
 .aboutPandas {
-	background-color: #9AE484;
+	background-color: #FF855B;
+	margin: 40px 0px;
 }
 .titleAboutPandas {
 	margin: 25px 0;
@@ -23,3 +34,22 @@ img {
 .descriptionPandas {
 	margin: 15px;
 }
+/* describie */
+.pictures {
+	background-color: #9AE484;
+	border-top: 15px solid #FF855B;
+	border-bottom: 15px solid #FF855B;
+}
+.titlePictures {
+	font-size: 2em;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.contentPictures {
+	margin-bottom: 50px;
+}
+.imgWrap {
+	margin-right: 85px;
+	border: 10px solid #fff;
+}
+
