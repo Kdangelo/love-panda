@@ -1,0 +1,25 @@
+body {
+	background-color: #FF855B;
+	text-align: center;
+	color: #fff;
+}
+.wrap {
+	text-align: right;
+	padding: 12px;
+}
+img {
+	width: 100%;
+}
+.about {
+	border-top: 15px solid #FF855B;
+	border-bottom: 15px solid #FF855B;
+}
+.aboutPandas {
+	background-color: #9AE484;
+}
+.titleAboutPandas {
+	margin: 25px 0;
+}
+.descriptionPandas {
+	margin: 15px;
+}
